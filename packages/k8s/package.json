@@ -20,7 +20,7 @@
     "hooklib": "file:../hooklib",
     "js-yaml": "^4.1.0",
     "shlex": "^3.0.0",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
